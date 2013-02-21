@@ -24,7 +24,13 @@ gem 'bourbon'
 gem 'neat'
 gem 'eventmachine'
 gem 'amqp'
+gem 'devise'
+gem 'haml'
+gem 'ruby_parser'
+gem 'hpricot'
 gem 'jquery-rails'
+gem 'sinatra'
+gem 'backbone-on-rails'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
